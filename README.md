@@ -1,5 +1,18 @@
 ## Stock Prediction (ML project)
 
+**Getting Started:**
+
+1. **Initialize a virtual environment:**
+
+   ```bash
+   python3 -m venv venv 
+2. **Install dependencies**
+
+    ```bash
+   pip install -r requirements.txt
+
+**About the project:**
+
 This project utilizes various Python libraries to build a stock prediction model. The libraries used include:
 
 * **NumPy:** For numerical operations and array manipulation.
